@@ -1,5 +1,22 @@
 ### Hello friend 🌈🌠🌟
 
+
+- 🔭 I’m currently working on the Skewed News group project, created by the Weird But Doable oragnization.
+
+- 🌱 I’m currently learning Server-side `API`'s, Materilize.js and JQuery.
+
+- 💬 Ask me about anything related to Web-Development, I am eager to learn new stuff and help with any problems that are within my knowledge.
+
+- 📫 How to reach me: Please contact me through my personal email; kemal.demirgil@hotmail.com
+
+- ⚡ Fun fact: I like creating games and art related to it on my free time...
+
+\
+*Meteor Rush!*\
+\
+![](/v0id2.gif)
+
+
 <!--
 **kemaldemirgil/kemaldemirgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
