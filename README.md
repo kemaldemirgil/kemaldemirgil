@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the Skewed News group project, created by the Weird But Doable organization.
 
-- 🌱 I’m currently learning Server-side `API`'s, `Materilize.js` and `JQuery`.
+- 🌱 I’m currently learning Node.js, installing third-party dependencies and creating interactive command-line applications.
 
 - 💬 Ask me about anything related to Web-Development, I am eager to learn new stuff and help with any problems that are within my knowledge.
 
