@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-C++-lightblue?logo=c%2B%2B&ogoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white&style=plastic"/>
-  </p>
+</p>
 <!--
 **kemaldemirgil/kemaldemirgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
