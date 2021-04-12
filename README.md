@@ -16,7 +16,17 @@
 \
 ![](/v0id2.gif)
 
-
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/-JQuery-blue?logo=jquery&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/-C++-lightblue?logo=c%2B%2B&ogoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white&style=plastic"/>
+  </p>
 <!--
 **kemaldemirgil/kemaldemirgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
