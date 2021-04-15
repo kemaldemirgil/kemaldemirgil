@@ -1,7 +1,7 @@
 ### Hello friend 🌈🌠🌟
 
 
-- 🔭 I’m currently working on the Skewed News group project, created by the Weird But Doable organization.
+- 🔭 I’m currently working on a README generator using Node.js.
 
 - 🌱 I’m currently learning Node.js, installing third-party dependencies and creating interactive command-line applications.
 
