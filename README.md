@@ -1,4 +1,4 @@
-### Hello friend 🌈🌠🌟
+## Hello friend 🌈🌠🌟
 
 
 - 🔭 I’m currently working on a README generator using Node.js.
