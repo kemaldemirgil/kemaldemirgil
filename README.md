@@ -1,9 +1,9 @@
 ## Hello friend 🌈🌠🌟
 
 
-- 🔭 I’m currently working on a README generator using Node.js.
+- 🔭 I’m currently working on a Team Profile Generator.
 
-- 🌱 I’m currently learning Node.js, installing third-party dependencies and creating interactive command-line applications.
+- 🌱 I’m currently learning Object Oriented Programming.
 
 - 💬 Ask me about anything related to Web-Development, I am eager to learn new stuff and help with any problems that are within my knowledge.
 
