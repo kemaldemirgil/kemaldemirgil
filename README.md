@@ -1,9 +1,9 @@
 ## Hello friend 🌈🌠🌟
 
 
-- 🔭 I’m currently working on a Team Profile Generator.
+- 🔭 I’m currently working on Note Taker application.
 
-- 🌱 I’m currently learning Object Oriented Programming.
+- 🌱 I’m currently learning Express.js.
 
 - 💬 Ask me about anything related to Web-Development, I am eager to learn new stuff and help with any problems that are within my knowledge.
 
