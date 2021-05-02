@@ -1,5 +1,5 @@
-## Hello friend 🌈🌠🌟
-
+## Hello There!🌈🌠🌟
+![](/welcomeFriend.gif)
 
 - 🔭 I’m currently working on an **Employee Tracker application**.
 
