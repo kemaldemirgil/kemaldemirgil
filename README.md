@@ -1,13 +1,13 @@
 ## Hello friend 🌈🌠🌟
 
 
-- 🔭 I’m currently working on Note Taker application.
+- 🔭 I’m currently working on an **Employee Tracker application**.
 
-- 🌱 I’m currently learning MySQL.
+- 🌱 I’m currently learning `MySQL`.
 
 - 💬 Ask me about anything related to Web-Development, I am eager to learn new stuff and help with any problems that are within my knowledge.
 
-- 📫 How to reach me: Please contact me through my personal email; `kemal.demirgil@hotmail.com`
+- 📫 How to reach me: Please contact me through my email kemal.demirgil@hotmail.com
 
 - ⚡ Fun fact: I like creating games and art related to it on my free time...
 
