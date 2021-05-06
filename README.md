@@ -23,11 +23,14 @@
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-JQuery-blue?logo=jquery&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=plastic"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-C++-lightblue?logo=c%2B%2B&ogoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=plastic&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jest-%23C21325?&style=plastic&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=plastic&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
