@@ -7,9 +7,10 @@
 
 - 💬 Ask me about anything related to Web-Development, I am eager to learn new stuff and help with any problems that are within my knowledge.
 
-- 📫 How to reach me: Please contact me through my email kemal.demirgil@hotmail.com
 
-- ⚡ Fun fact: I like creating games and art related to it on my free time...
+#### Connect with me!
+<a href="https://www.linkedin.com/in/kemaldemirgil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
+<a href="mailto: kemal.demirgil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
 
 
 >*Meteor Rush!*\
