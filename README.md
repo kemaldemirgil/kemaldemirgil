@@ -1,5 +1,5 @@
-## Hello There!🌈🌠🌟
-![](/welcomeFriend.gif)
+<h1 align = "center"> Hello There!🌈🌠🌟</h1>
+<p align = "center"><img src="/welcomeFriend.gif"/></p>
 
 - 🧿 My journey for coding started in the **beginning of 2021** with the *Full Stack Web Development Boot camp*. In the meantime, I'm moving forward by creating new content and applications frequently while expanding my tools and languages.\
   I currently speak `JavaScript` and `C++` however, I will also be learning `Python`, `Java` and `C#` in the future. Eventually, I would love to work on building *games*, *automated systems* and *computer applications*. I also have an interest in *testing* and *cyber-security* however, as we all know, all this requires many hours and consistent steps🏇🏁
@@ -11,16 +11,17 @@
 - 💬 Please feel free to reach out to me for asking any questions regarding my current applications or for any general questions. I would love to contribute to any kind of idea or to a project, even though I'm still new within this field, I'll do my best to have a positive impact.
 
 
-#### Connect with me!
-<a href="https://www.linkedin.com/in/kemaldemirgil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/></a>
-<a href="mailto: kemal.demirgil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
+<h3 align = "center">Connect with me!</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kemaldemirgil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto: kemal.demirgil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
+</p>
 
+<h5 align = "center">Meteor Rush!<br>
+<img src="/v0id2.gif"
+</h5>
 
->*Meteor Rush!*\
-\
-![](/v0id2.gif)
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=plastic"/>
