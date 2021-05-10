@@ -17,9 +17,9 @@
   <a href="mailto: kemal.demirgil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h5 align = "center">Meteor Rush!<br>
+<h5 align = "center">Meteor Rush!<br><br>
 <img src="/v0id2.gif"
-</h5>
+<br></h5>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=plastic"/>
