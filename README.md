@@ -7,21 +7,58 @@
 
 - 🔭 I’m currently working on the **E-Commerce application**.
 
-- 🌱 I’m currently learning `Object-Relational Mapping (ORM)`.
+- 🌱 I’m currently learning `Model-View-Controller (MVC)`.
 
 - 💬 Please feel free to reach out to me for asking any questions regarding my current applications or for any general questions. I would love to contribute to any kind of idea or to a project, even though I'm still new within this field, I'll do my best to have a positive impact.
 
 
 <h3 align = "center">Connect with me!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kemaldemirgil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto: kemal.demirgil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kemaldemirgil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto: kemal.demirgil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <h5 align = "center">Meteor Rush!<br><br>
 <img src="/v0id2.gif"
 <br></h5>
 
+
+<h4 align="center">Tools and products I use</h4>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<details>
+  <summary><b>Languages that I like to use</b></summary>
+  <br>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaldemirgil&layout=compact&hide=html" alt="kemaldemirgil" /></p>
+</details>
+
+<details>
+  <summary><b>My stats</b></summary>
+  <br>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaldemirgil" alt="kemaldemirgil" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaldemirgil" alt="kemaldemirgil" /></p>
+</details>
+
+
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=plastic"/>
@@ -41,17 +78,20 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi"/>
 </p>
+-->
+
+
 <!--
 **kemaldemirgil/kemaldemirgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - 🔭 I’m currently working on ...
+  - 🌱 I’m currently learning ...
+  - 👯 I’m looking to collaborate on ...
+  - 🤔 I’m looking for help with ...
+  - 💬 Ask me about ...
+  - 📫 How to reach me: ...
+  - 😄 Pronouns: ...
+  - ⚡ Fun fact: ...
 -->
