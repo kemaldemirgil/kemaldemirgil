@@ -4,13 +4,14 @@
 
 - 🧿 My journey for coding started in the **beginning of 2021** with the *Full Stack Web Development Boot camp*. In the meantime, I'm moving forward by creating new content and applications frequently while expanding my tools and languages.\
   I currently write `JavaScript` and `C++` however, I will also be learning `Python`, `Java` and `C#` in the future. Eventually, I would love to work on building *games*, *automated systems* and *computer applications*. I also have an interest in *testing* and *cyber-security* however, as we all know, all this requires many hours and consistent steps🏇🏁
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 🔭 I’m currently working on **Techbook**.
 
 - 🌱 I’m currently learning `Model-View-Controller (MVC)`.
 
 - 💬 Please feel free to reach out to me for asking any questions regarding my current applications or for any general questions. I would love to contribute to any kind of idea or to a project, even though I'm still new within this field, I'll do my best to have a positive impact.
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 align = "center">Connect with me!</h3>
 <p align="center">
@@ -21,7 +22,10 @@
 <h5 align = "center">Meteor Rush!<br><br>
 <img src="/v0id2.gif"
 <br></h5>
-
+<p align = "center">
+  
+<img src="https://profile-counter.glitch.me/kemaldemirgil/count.svg"/>
+</p>
 
 <h4 align="center">Tools and products I use</h4>
 <p align="center">
@@ -45,19 +49,14 @@
 </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?style=flat-square&page_id=kemaldemirgil"/>  &nbsp; &nbsp;</p>
 
-<p>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kemaldemirgil&theme=onedark&column=5&margin-w=60&margin-h=20)
+
+<p align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaldemirgil&theme=tokyonight&show_icons=true" alt="kemaldemirgil" /></p>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaldemirgil" alt="kemaldemirgil" /></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaldemirgil&layout=compact&hide=html" alt="kemaldemirgil" /></p>
 </p>
-
-
-
-
-
-
-
-
 
 <!--
 <p align="center">
