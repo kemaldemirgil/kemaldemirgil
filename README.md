@@ -45,18 +45,15 @@
 </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?style=flat-square&page_id=kemaldemirgil"/>  &nbsp; &nbsp;</p>
 
-<details>
-  <summary><b>Languages that I like to use</b></summary>
-  <br>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaldemirgil&layout=compact&hide=html" alt="kemaldemirgil" /></p>
-</details>
+<p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaldemirgil&theme=tokyonight&show_icons=true" alt="kemaldemirgil" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaldemirgil" alt="kemaldemirgil" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaldemirgil&layout=compact&hide=html" alt="kemaldemirgil" /></p>
+</p>
 
-<details>
-  <summary><b>My stats</b></summary>
-  <br>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaldemirgil" alt="kemaldemirgil" /></p>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaldemirgil" alt="kemaldemirgil" /></p>
-</details>
+
+
+
 
 
 
