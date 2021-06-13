@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Regular Expressions**.
 
-- 🌱 I’m currently learning `NoSQL database w/ MongoDB`.
+- 🌱 I’m currently learning `NoSQL` database w/ `MongoDB`.
 
 - 💬 Please feel free to reach out to me for asking any questions regarding my current applications or for any general questions. I would love to contribute to any kind of idea or to a project, even though I'm still new within this field, I'll do my best to have a positive impact.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
