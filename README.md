@@ -6,7 +6,7 @@
   I currently write `JavaScript` and `C++` however, I will also be learning `Python`, `Java` and `C#` in the future. Eventually, I would love to work on building *games*, *automated systems* and *computer applications*. I also have an interest in *testing* and *cyber-security* however, as we all know, all this requires many hours and consistent steps🏇🏁
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 🔭 I’m currently working on **Regular Expressions**.
+- 🔭 I’m currently working on **Shell Scripts**.
 
 - 🌱 I’m currently learning `NoSQL` databases using `MongoDB`.
 
