@@ -6,9 +6,9 @@
   I currently write `JavaScript` and `C++` however, I will also be learning `Python`, `Java` and `C#` in the future. Eventually, I would love to work on building *games*, *automated systems* and *computer applications*. I also have an interest in *testing* and *cyber-security* however, as we all know, all this requires many hours and consistent steps🏇🏁
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 🔭 I’m currently working on **whit3-wall3t**.
+- 🔭 I’m currently working on **reactive-portfolio**.
 
-- 🌱 I’m currently learning `Progressive Web Applications` (PWA)
+- 🌱 I’m currently learning `React.js`.
 
 - 💬 Please feel free to reach out to me for asking any questions regarding my current applications or for any general questions. I would love to contribute to any kind of idea or to a project, even though I'm still new within this field, I'll do my best to have a positive impact.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
