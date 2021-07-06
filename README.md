@@ -3,7 +3,7 @@
 
 
 - 🧿 My journey for coding started in the **beginning of 2021** with the *Full Stack Web Development Boot camp*. In the meantime, I'm moving forward by creating new content and applications frequently while expanding my tools and languages.\
-  I currently write `JavaScript` and `C++` however, I will also be learning `Python`, `Java` and `C#` in the future. Eventually, I would love to work on building *games*, *automated systems* and *computer applications*. I also have an interest in *testing* and *cyber-security* however, as we all know, all this requires many hours and consistent steps🏇🏁
+  I currently write `JavaScript` and `C++` however, I'm aiming to learn `Python`, `Java` and `C#` in the future. I would love to work on building *games*, *automated systems* and *computer applications*. I'm also interested in *testing* and *cyber-security* however, as we all know, all these require many hours and consistent steps🏇🏁
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 🔭 I’m currently working on **portfolio**.
