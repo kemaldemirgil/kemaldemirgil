@@ -29,7 +29,6 @@
 
 <h4 align="center">Tools and products I use</h4>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
