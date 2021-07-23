@@ -1,16 +1,18 @@
 <h1 align = "center"> Hello There!🌈🌠🌟</h1>
 <p align = "center"><img src="/welcomeFriend.gif"/></p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 🧿 My journey for coding started in the **beginning of 2021** with the *Full Stack Web Development Boot camp*. In the meantime, I'm moving forward by creating new content and applications frequently while expanding my tools and languages.\
   I currently write `JavaScript` and `C++` however, I'm aiming to learn `Python`, `Java` and `C#` in the future. I would love to work on building *games*, *automated systems* and *computer applications*. I'm also interested in *testing* and *cyber-security* however, as we all know, all these require many hours and consistent steps🏇🏁
-  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 💻 I’m currently working on **Redux Store Applicaton**.
 
 - ✍️ I’m currently learning `ReactJS Redux`.
 
 - 💬 Please feel free to reach out to me for asking any questions regarding my current applications or for any general questions. I would love to contribute to any kind of idea or to a project, even though I'm still new within this field, I'll do my best to have a positive impact.
+
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 align = "center">Connect with me!</h3>
