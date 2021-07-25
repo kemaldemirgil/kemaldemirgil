@@ -6,7 +6,7 @@
 - 🧿 My journey for coding started in the **beginning of 2021** with the *Full Stack Web Development Boot camp*. In the meantime, I'm moving forward by creating new content and applications frequently while expanding my tools and languages.\
   I currently write `JavaScript` and `C++` however, I'm aiming to learn `Python`, `Java` and `C#` in the future. I would love to work on building *games*, *automated systems* and *computer applications*. I'm also interested in *testing* and *cyber-security* however, as we all know, all these require many hours and consistent steps🏇🏁
 
-- 💻 I’m currently working on **Redux Store Applicaton**.
+- 💻 I’m currently working on **Craftical**.
 
 - ✍️ I’m currently learning `ReactJS Redux`.
 
