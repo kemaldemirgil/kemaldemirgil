@@ -36,6 +36,7 @@
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
