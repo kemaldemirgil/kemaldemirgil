@@ -69,7 +69,6 @@
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaldemirgil&layout=compact&hide=html" alt="kemaldemirgil" /></p>
 </p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaldemirgil" alt="kemaldemirgil" /></p>
 <!-- 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?style=flat-square&page_id=kemaldemirgil"/>  &nbsp; &nbsp;</p> -->
 <!--
