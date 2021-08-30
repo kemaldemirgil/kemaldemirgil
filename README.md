@@ -1,6 +1,6 @@
-<h1 align = "center"> Hello There!🌈🌠🌟</h1>
+<!-- <h1 align = "center"> Hello There!🌈🌠🌟</h1> -->
 <p align = "center"><img src="/welcomeFriend.gif"/></p>
-
+<!-- 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 🧿 My journey for coding started in the **beginning of 2021** with the *Full Stack Web Development Boot camp*. In the meantime, I'm moving forward by creating new content and applications frequently while expanding my tools and languages.\
@@ -57,18 +57,19 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 
-
+<!-- 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kemaldemirgil&theme=onedark&column=5&margin-w=60&margin-h=20)
 
 <p align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaldemirgil&theme=tokyonight&show_icons=true" alt="kemaldemirgil" /></p>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaldemirgil" alt="kemaldemirgil" /></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaldemirgil&layout=compact&hide=html" alt="kemaldemirgil" /></p>
-</p>
+</p> -->
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaldemirgil" alt="kemaldemirgil" /></p>
 <!-- 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?style=flat-square&page_id=kemaldemirgil"/>  &nbsp; &nbsp;</p> -->
 <!--
